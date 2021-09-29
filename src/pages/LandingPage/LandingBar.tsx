@@ -27,7 +27,7 @@ export default function LandingBar() {
           }}>
             <Tab label="Home" value="home" />
             <Tab label="NFT" value="nft" />
-            <Tab label="Game Play" value="gameplay" />
+            <Tab label="Gameplay" value="gameplay" />
             <Tab label="Market" value="market" />
           </Tabs>
         </Toolbar>
